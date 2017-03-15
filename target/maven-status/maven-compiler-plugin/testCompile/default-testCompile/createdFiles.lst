@@ -1,0 +1,5 @@
+pages\BasePage.class
+step\LoginStepDefinition.class
+pages\LoginPage.class
+cucumber\CucumberRunner.class
+pages\HomePage.class
